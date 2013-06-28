@@ -12,7 +12,7 @@
 		<repository>
 			<id>ibcorp</id>
 			<name>IBCorp Open Source Projects</name>
-			<url>http://ibcorp.com.br/repository/</url>
+			<url>http://repo.ibcorp.com.br/maven/</url>
 			<layout>default</layout>
 		</repository>
 	</repositories>
